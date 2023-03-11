@@ -35,6 +35,7 @@ sscreen={
 	difs={
 		{" easy ", 8,0x0.1},
 		{"normal",16,0x0.2},
+		{"~hard~",24,0x0.4},
 		{" hard ",32,0x0.4},
 		{"expert",64,0x0.8},
 	},
